@@ -17,9 +17,14 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=dinkararyan">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dinkararyan&layout=compact">
 
-#### Find me at 
+#### You can find me here  
 <p align="left">
 <a href="https://www.linkedin.com/in/aryan-dinkar-7755b0184/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+#### Something about me 
+<p align="left">
+<a href="https://drive.google.com/file/d/1bxfSkFlgPwwbS7Q_Jk2Npeky25ODUFok/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1bxfSkFlgPwwbS7Q__Jk2Npeky25ODUFok%2Fview%3Fusp%3Dsharing-orange" /></a>
 </p>
 
 <!---
